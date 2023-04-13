@@ -1,4 +1,4 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://service-discovery:8761/eureka/
+      defaultZone: http://resource-service-discovery:8761/eureka/
